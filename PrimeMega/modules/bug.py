@@ -49,7 +49,7 @@ async def bug(_, msg: Message):
     thumb = "https://telegra.ph/file/efc27dec817626cc95016.jpg"
     
     bug_report = f"""
-**#BUG : ** **[Lord](https://t.me/Bukan_guudlooking)**
+**#BUG : ** **[Lord](https://t.me/You_Bitchhh)**
 **From User : ** **{mention}**
 **User ID : ** **{user_id}**
 **Group : ** **{chat_username}**
